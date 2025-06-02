@@ -9,6 +9,7 @@ Focus on project root when performing your actions. The following files are mean
 - .vibe/tasks
 - .vibe/ERRORS.md
 - .vibe/INSTRUCTIONS.md
+- .vibe/LINKS.md
 
 Your instructions you will follow are in INSTRUCTIONS.md. If INSTRUCTIONS.md is empty, check .vibe/tasks for any open tasks, determine which task is best to complete next and ask the user for permission to continue with the task in question. If there are no INSTRUCTIONS or TASKS, continue with your assumption of what the user is looking to achieve. 
 
