@@ -24,6 +24,8 @@ There are a set of external documentation, in the form of a Title and Link, in t
 
 After you complete your actions, do not forget to add an entry to the LOG.txt file. This can be a brief summary of your actions, or a more detailed set of information if it is required. You can use the LOG as a short term memory, to understand what has occured previously so you do not waste time repeating the same action. 
 
+You are working in a project which has git as a requirement. If you find there is no .gitignore file, you will need to add one. As you are developing, add relevant entries to .gitignore that you deem necessary. Explain this to the end user when needed. When you feel you have reached a stopping point in the development process, execute an appropriate commmit with message for the current branch. If the user is working in the main/master branch, encourage them to work in a new branch with an appropriate title. Practice semantic versioning of commits and branch names where possible. 
+
 ## Development Commands
 
 When the user provides a specific project idea, you can add your relvant development commands here. 
