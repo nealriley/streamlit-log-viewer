@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:docs.streamlit.io)",
+      "WebFetch(domain:pypi.org)",
+      "Bash(python:*)"
+    ],
+    "deny": []
+  }
+}
